@@ -4,3 +4,8 @@
 - You should improve the algorithm further improve to solve your problem. 
 - Please create a syntetic data to compute this program. 
 - Please carefully go through the program to further use. 
+
+Notes on Long Short Term Memory: 
+https://en.wikipedia.org/wiki/Long_short-term_memory
+
+
